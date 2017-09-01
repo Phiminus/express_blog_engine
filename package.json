@@ -1,0 +1,24 @@
+{
+  "name": "express_blog_engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phiminus/express_blog_engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phiminus/express_blog_engine/issues"
+  },
+  "homepage": "https://github.com/Phiminus/express_blog_engine#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.3"
+  }
+}
